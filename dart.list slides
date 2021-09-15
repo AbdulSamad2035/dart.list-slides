@@ -1,0 +1,20 @@
+void main() {
+ List <dynamic> list1 = [1,2 ,"abdul samad","four",8];
+//  list1=[list1.length-1];
+//   elements=total numbers 
+//   index=less than one of total numbers
+//   print (list1);
+//       list1=[list1.first];
+//   print (list1);
+//   list1=[list1.last];
+//   print (list1);
+//   list1= [list1.elementAt(2)];
+//   print (list1);
+//   list1.addAll([2,"usman","mudasir"]);
+//   print (list1);
+//    list1.insertAll(3,["first",67,"second"]);
+//   print (list1);
+//   list1=([list1.reversed]);
+//   print (list1);
+//   list1.removeRange(2,3);
+//   print (list1);
